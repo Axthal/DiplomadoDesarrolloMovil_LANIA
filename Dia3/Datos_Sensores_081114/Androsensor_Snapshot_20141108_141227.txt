@@ -1,0 +1,52 @@
+Androsensor Sensor Snapshot
+2014/11/08 14:12:27
+
+LOCATION: 
+	unavailable
+
+ACCELEROMETER: ( 0.1mA )
+	x:+0,9194 m/s²
+	y:+9,1936 m/s²
+	z:+3,8307 m/s²
+	Σ:+10,0021 m/s²
+
+GRAVITY: ( 0.1mA )
+	x:+1,2148 m/s²
+	y:+8,6247 m/s²
+	z:+4,4673 m/s²
+	Σ:+9,7887 m/s²
+
+LINEAR ACCELERATION: ( 0.1mA )
+	x:-0,2955 m/s²
+	y:+0,5689 m/s²
+	z:-0,6366 m/s²
+	Σ:+0,9035 m/s²
+
+MAGNETIC FIELD: ( 4.0mA )
+	X:+10,20 μT
+	Y:-39,30 μT
+	Z:-3,10 μT
+	Σ:+40,72 μT
+
+ORIENTATION: ( 4.0mA )
+	X:+209,82° 
+	Y:-61,77° 
+	Z:-15,21°
+
+PROXIMITY: ( 20.0mA )
+	 0,4 in
+
+BATTERY STATUS: 
+	Temperature: 82.4 °F 
+	Level: 59.0% (0.0% / min) 
+	Voltage: 3.0 Volt 
+	Status: Discharging 
+	Health: Good 
+	Technology: Li-ion
+
+SOUND LEVEL: 
+	 27,965 dB
+
+DATE - TIME: 
+	2014-11-08 14:12:27:549
+

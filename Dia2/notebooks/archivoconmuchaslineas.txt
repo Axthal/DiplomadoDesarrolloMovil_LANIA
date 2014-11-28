@@ -1,0 +1,9 @@
+Primero escriban un archivo 
+de puro texto 
+que contenga 
+al menos 
+7 lineas 
+con cadenas de texto aleatorias. 
+Pueden usar 
+su editor de textos favorito 
+o cualquier otro comando que sepan.
